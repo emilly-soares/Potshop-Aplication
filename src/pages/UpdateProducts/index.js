@@ -11,7 +11,7 @@ export default function UpdateProducts({ history }) {
    const [image, setImage] = useState("");
 
    const url_atual = window.location.href;
-   const id = url_atual.substring(29);
+   const id = url_atual.substring(44);
 
    const [list, setList] = useState([0]);
    useEffect(() => {
