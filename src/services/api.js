@@ -4,7 +4,7 @@ import axios from 'axios';
 import { getToken } from './auth';
 
 const api = axios.create({
-   baseURL: 'http://192.168.56.1:3333',
+   baseURL: 'https://potshop-7c3u06k0u-marcelinogarcia-na.vercel.app/',
 });
 
 api.interceptors.request.use(async config => {
