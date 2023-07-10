@@ -32,7 +32,8 @@ A seguinte ferramenta foi utilizada na construção do projeto:
 
 <h3>Cadastrar Produto</h3>
 
-![image](https://github.com/emilly-soares/potshop-aplication/assets/54116441/b7f44916-f576-4004-8f1a-b03b04d78704)
+![image](https://github.com/emilly-soares/potshop-aplication/assets/54116441/ec4fe383-67ac-4efa-a53a-516c980302df)
+
 
 ### Autor
 Feito por Emilly Soares 👋🏽 Entre em contato!🚀
