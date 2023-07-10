@@ -22,7 +22,7 @@ A seguinte ferramenta foi utilizada na construção do projeto:
 
 ![image](https://github.com/emilly-soares/potshop-aplication/assets/54116441/2f83fdaf-1a46-4115-84e7-37d34a3af69b)
 
-![image](https://github.com/emilly-soares/potshop-aplication/assets/54116441/5d0ba0fc-1776-4825-add7-9706ee87d104)
+![252433977-5d0ba0fc-1776-4825-add7-9706ee87d104](https://github.com/emilly-soares/potshop-aplication/assets/54116441/07979574-e0b9-453d-8a16-1cbe9984f1bb)
 
 
 <h3>Login</h3>
