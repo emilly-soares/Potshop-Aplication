@@ -15,7 +15,7 @@ A seguinte ferramenta foi utilizada na construção do projeto:
 - [React](https://pt-br.reactjs.org/)
 
 ### Deploy 
-🔗[potshop-aplication.vercel.app](https://potshop-aplication.vercel.app/](https://potshop-aplication.vercel.app/)🚀
+🔗[potshop-aplication](https://potshop-aplication.vercel.app/)🚀
 
 ### Imagens
 <h3>Home</h3>
