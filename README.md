@@ -20,7 +20,7 @@ A seguinte ferramenta foi utilizada na construção do projeto:
 ### Imagens
 <h3>Home</h3>
 
-![image](https://github.com/emilly-soares/potshop-aplication/assets/54116441/2f83fdaf-1a46-4115-84e7-37d34a3af69b)
+![image](https://github.com/emilly-soares/potshop-aplication/assets/54116441/e82a4748-9759-44d1-bc9f-770de980f1f3)
 
 <h3>Login</h3>
 
