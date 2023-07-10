@@ -6,7 +6,7 @@
 <p align="center">
   <a href="#Tecnologia">Tecnologia</a> • 
  <a href="#Deploy">Deploy</a> •
-<a href="#Executar">Imagens</a> •
+<a href="#Imagens">Imagens</a> •
  <a href="#autor">Autor</a>
 </p>
 
@@ -21,9 +21,6 @@ A seguinte ferramenta foi utilizada na construção do projeto:
 <h3>Home</h3>
 
 ![image](https://github.com/emilly-soares/potshop-aplication/assets/54116441/2f83fdaf-1a46-4115-84e7-37d34a3af69b)
-
-![252433977-5d0ba0fc-1776-4825-add7-9706ee87d104](https://github.com/emilly-soares/potshop-aplication/assets/54116441/07979574-e0b9-453d-8a16-1cbe9984f1bb)
-
 
 <h3>Login</h3>
 
