@@ -20,24 +20,14 @@ A seguinte ferramenta foi utilizada na construção do projeto:
 ### Imagens
 
 ![1](https://github.com/emilly-soares/Potshop-Aplication/assets/54116441/63874e9e-54ec-4368-97e4-4f4bb60b2a32)
-
-
-
+<br/>
 ![3](https://github.com/emilly-soares/Potshop-Aplication/assets/54116441/9d1e4501-4c2d-48e0-96ef-a2f25f558914)
-
-
-
+<br/>
 ![5](https://github.com/emilly-soares/Potshop-Aplication/assets/54116441/f2072e4f-49d8-44ec-b964-93f6b3db993d)
-
-
-
+<br/>
 ![6](https://github.com/emilly-soares/Potshop-Aplication/assets/54116441/6bdd593f-b1a6-4680-ab54-a564891dec8b)
-
-
-
+<br/>
 ![LOGINDESKTOP](https://github.com/emilly-soares/Potshop-Aplication/assets/54116441/605d255a-3b72-4493-858d-342e40abfd84)
-
-
 
 ### Autor
 Feito por Emilly Soares 👋🏽 Entre em contato!🚀
