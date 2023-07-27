@@ -15,19 +15,25 @@ A seguinte ferramenta foi utilizada na construção do projeto:
 - [React](https://pt-br.reactjs.org/)
 
 ### Deploy 
-🔗🚀
+🔗[potshop-aplication](https://potshop-aplication.vercel.app/)🚀
 
 ### Imagens
+<h3>Home</h3>
 
-![1](https://github.com/emilly-soares/Potshop-Aplication/assets/54116441/63874e9e-54ec-4368-97e4-4f4bb60b2a32)
-<br/><br/>
-![3](https://github.com/emilly-soares/Potshop-Aplication/assets/54116441/9d1e4501-4c2d-48e0-96ef-a2f25f558914)
-<br/><br/>
-![5](https://github.com/emilly-soares/Potshop-Aplication/assets/54116441/5615e66b-bcda-4b5e-a0c8-13835ca372bf)
-<br/><br/>
-![6](https://github.com/emilly-soares/Potshop-Aplication/assets/54116441/6bdd593f-b1a6-4680-ab54-a564891dec8b)
-<br/><br/>
-![LOGINDESKTOP](https://github.com/emilly-soares/Potshop-Aplication/assets/54116441/605d255a-3b72-4493-858d-342e40abfd84)
+![image](https://github.com/emilly-soares/potshop-aplication/assets/54116441/e82a4748-9759-44d1-bc9f-770de980f1f3)
+
+<h3>Login</h3>
+
+![image](https://github.com/emilly-soares/potshop-aplication/assets/54116441/525c695c-854b-4976-a0cd-15daeefb91a0)
+
+<h3>Cadastrar Usuário</h3>
+
+![image](https://github.com/emilly-soares/potshop-aplication/assets/54116441/f898a62f-94fd-4b43-8c7d-8061d498da05)
+
+<h3>Cadastrar Produto</h3>
+
+![image](https://github.com/emilly-soares/potshop-aplication/assets/54116441/ec4fe383-67ac-4efa-a53a-516c980302df)
+
 
 ### Autor
 Feito por Emilly Soares 👋🏽 Entre em contato!🚀
