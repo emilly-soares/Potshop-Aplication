@@ -27,14 +27,11 @@ A seguinte ferramenta foi utilizada na construção do projeto:
 
 
 
-
 ![5](https://github.com/emilly-soares/Potshop-Aplication/assets/54116441/f2072e4f-49d8-44ec-b964-93f6b3db993d)
 
 
 
-
 ![6](https://github.com/emilly-soares/Potshop-Aplication/assets/54116441/6bdd593f-b1a6-4680-ab54-a564891dec8b)
-
 
 
 
