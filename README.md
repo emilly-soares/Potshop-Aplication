@@ -34,6 +34,8 @@ A seguinte ferramenta foi utilizada na construção do projeto:
 
 ![image](https://github.com/emilly-soares/potshop-aplication/assets/54116441/ec4fe383-67ac-4efa-a53a-516c980302df)
 
+## Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request explicando suas alterações.
 
 ### Autor
 Feito por Emilly Soares 👋🏽 Entre em contato!🚀
