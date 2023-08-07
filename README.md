@@ -37,5 +37,6 @@ A seguinte ferramenta foi utilizada na construção do projeto:
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request explicando suas alterações.
 
+
 ### Autor
 Feito por Emilly Soares 👋🏽 Entre em contato!🚀
